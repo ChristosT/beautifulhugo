@@ -214,3 +214,15 @@ id = "about"
 url = "%s"
 title = "About"
 icon = "fas fa-at"
+
+[[social_icons]]
+id = "googlescholar"
+url="https://scholar.google.com/citations?&user=%s"
+title= "Google Scholar"
+icon= "fab fa-google-scholar"
+
+[[social_icons]]
+id = "researchgate"
+url="https://www.researchgate.net/profile/%s"
+title= "ResearchGate"
+icon= "fab fa-researchgate"
